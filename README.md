@@ -1,6 +1,6 @@
 # 📈 Analisi della Deprivazione Materiale e Sociale in Italia (2022)
 
-**Un'indagine statistica avanzata** sulla povertà multidimensionale in Italia, combinando dati EU-SILC 2022, analisi classiche (Cronbach's α, distribuzioni di frequenza) e modelli moderni (Rasch). Progetto accademico sviluppato per il corso di *Statistica Sociale Avanzata*.
+**Un'indagine statistica avanzata** sulla povertà multidimensionale in Italia, combinando dati EU-SILC 2022, analisi classiche (Cronbach's α, distribuzioni di frequenza) e modelli moderni (Rasch).
 
 ---
 
